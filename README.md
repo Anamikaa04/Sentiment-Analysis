@@ -8,7 +8,6 @@ This project performs sentiment analysis on user reviews from the Bhashini app u
 - [Scripts](#scripts)
 - [Steps for Final Output](#steps-for-final-output)
 - [Results](#results)
-- [License](#licence)
 
 ## Introduction
 This repository contains the code used to scrape and analyze sentiment from the Google Play Store reviews of the Bhashini app. We implemented NLTK's VADER for sentiment analysis and used LDA for topic modeling to gain insights from user feedback.
@@ -60,6 +59,3 @@ This repository contains the code used to scrape and analyze sentiment from the 
 
     ![Screenshot 2024-07-23 145840](https://github.com/user-attachments/assets/319f6107-5183-4bcd-82b0-da2611a2b63f)
 
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
