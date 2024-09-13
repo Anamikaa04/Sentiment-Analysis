@@ -1,4 +1,4 @@
-# Sentiment Analysis Using NLTK VADER and LDA
+# Sentiment Analysis Using NLTK VADER and IndicBERT
 
 This project performs sentiment analysis on user reviews from the Bhashini app using NLTK's VADER tool and Latent Dirichlet Allocation (LDA) for topic modeling.
 
